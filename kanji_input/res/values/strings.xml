@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">Kanji Input</string>
+<string name="sample_ime_name">Kanji Input Sample</string>
+<string name="label_keyboad_setting">キーボード設定</string>
+
+</resources>
